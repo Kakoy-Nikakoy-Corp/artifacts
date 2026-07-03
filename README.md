@@ -1,0 +1,2 @@
+# artifacts
+Артефакты проекта WildlifeCV
